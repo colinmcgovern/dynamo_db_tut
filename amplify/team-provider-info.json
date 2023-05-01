@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-petsapi-dev-82423-authRole",
+      "UnauthRoleArn": "arn:aws:iam::844042853893:role/amplify-petsapi-dev-82423-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::844042853893:role/amplify-petsapi-dev-82423-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-petsapi-dev-82423-deployment",
+      "UnauthRoleName": "amplify-petsapi-dev-82423-unauthRole",
+      "StackName": "amplify-petsapi-dev-82423",
+      "StackId": "arn:aws:cloudformation:us-west-2:844042853893:stack/amplify-petsapi-dev-82423/1ef531e0-e81b-11ed-8281-060a72b1d61f",
+      "AmplifyAppId": "d3nqcz5ipqdk15"
+    },
+    "categories": {
+      "auth": {
+        "petsapi0c68bdb8": {}
+      },
+      "function": {
+        "petsfunction": {
+          "deploymentBucketName": "amplify-petsapi-dev-82423-deployment",
+          "s3Key": "amplify-builds/petsfunction-525a58565a68777a7262-build.zip"
+        }
+      },
+      "storage": {
+        "petsDB": {}
+      },
+      "api": {
+        "petsapi": {}
+      }
+    }
+  }
+}

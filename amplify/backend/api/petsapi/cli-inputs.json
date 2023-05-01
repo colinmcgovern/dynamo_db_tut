@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/pets": {
+      "name": "/pets",
+      "lambdaFunction": "petsfunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
